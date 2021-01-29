@@ -1,0 +1,10 @@
+# Directories #
+.idea/
+practice_pytorch/.ipynb_checkpoints/
+__pycache__/
+
+# files #
+*.txt
+*.model
+*.vocab
+*.csv
