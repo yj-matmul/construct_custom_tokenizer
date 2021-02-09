@@ -2,6 +2,7 @@
 .idea/
 practice_pytorch/.ipynb_checkpoints/
 __pycache__/
+hugging_korean/
 
 # files #
 *.txt

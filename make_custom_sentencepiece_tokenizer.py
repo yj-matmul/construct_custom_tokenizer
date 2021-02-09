@@ -1,6 +1,5 @@
 import sentencepiece as spm
 import pandas as pd
-import urllib.request as request
 import csv
 
 SRC_DATA_PATH = '../integrated_data/korean_for_nlp.txt'
